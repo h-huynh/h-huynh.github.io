@@ -1,6 +1,6 @@
 ## About me
 
-Currently studying computer science a the University of Minnesota Twin Cities location.
+Currently studying computer science at the University of Minnesota Twin Cities location.
 
 ### Projects
 
